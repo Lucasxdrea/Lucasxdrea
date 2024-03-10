@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucasxdrea
 # Oi eu sou Lucas Oliveira
-📚 Estudando Desenvolvimeto Web
+📚 Estudando Engenharia da Computação
 
 
 
