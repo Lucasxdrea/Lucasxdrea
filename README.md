@@ -7,6 +7,8 @@
  💬 Ask me about Software Development, Freelancing and Public Speaking.
  
  🤩 I love soccer, beach, exploring new places!
+
+ 📍 Brazilian
  
 <br>
 <h3 align="center">🛠 My Tech Stack</h3>
